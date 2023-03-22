@@ -1,0 +1,21 @@
+{
+  "name": "automation-playw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikoTeLp90/Automation-PlayW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikoTeLp90/Automation-PlayW/issues"
+  },
+  "homepage": "https://github.com/NikoTeLp90/Automation-PlayW#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
